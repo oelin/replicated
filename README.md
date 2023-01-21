@@ -1,4 +1,4 @@
 
 # Replicated
 
-An anonymous reimplementation Replicate's [Python client](https://github.com/replicate/replicate-python).
+An anonymous reimplementation of Replicate's [Python client](https://github.com/replicate/replicate-python).
